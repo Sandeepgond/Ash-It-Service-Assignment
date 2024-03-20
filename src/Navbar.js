@@ -10,7 +10,7 @@ const Navbar = () => {
         as="nav"
         align="center"
         justify="space-between"
-        padding="1rem"
+        padding=".5rem"
         position="fixed"
         top="0"
         left="0"
@@ -59,7 +59,7 @@ const Navbar = () => {
          
           <Icon> <FiUser size="lg"/> </Icon>
 
-        <Button bg={"#10C66F"} mr="2">
+        <Button bg={"#10C66F"} color={"white"} mr="2">
             Create Listing 
         </Button>
         </Flex>
