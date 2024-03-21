@@ -22,8 +22,6 @@ const Home = () => {
       </Box>
     </Box>
 
-      {/* Mid section Begin */}
-
       <Box w="90%" m="auto" mt={30}>
       <Center>
         <Heading pb={5} color="#10C66F">Featured Properties</Heading>
