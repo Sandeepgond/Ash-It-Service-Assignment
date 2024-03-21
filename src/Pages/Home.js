@@ -187,10 +187,10 @@ const Home = () => {
             </Box>
           </Flex>
         </Box>
-        {/* Repeat the above Box component for other properties */}
       </Grid>
     </Box>
-      <Footer/>
+
+    <Footer/>
 
     </>
 
